@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KRISHNAKESAVM
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for web development job and data analysts
 - 📫 How to reach me ...
 
 <!---
